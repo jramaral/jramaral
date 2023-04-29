@@ -27,5 +27,5 @@
         <img align="center" 
     alt="html5" src="https://img.shields.io/badge/GIT-E44C30?style=flat-square&logo=git&logoColor=white">
 </div>
-
+<br>
 <p>O aprendizado contínuo é a chave para o sucesso na carreira de um desenvolvedor.</p>
