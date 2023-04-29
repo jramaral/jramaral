@@ -1,4 +1,5 @@
 ### Olá! Eu sou Jose Roberto ✌️
+
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jr-amaral/)
 
 
@@ -26,3 +27,5 @@
         <img align="center" 
     alt="html5" src="https://img.shields.io/badge/GIT-E44C30?style=flat-square&logo=git&logoColor=white">
 </div>
+
+<p>O aprendizado contínuo é a chave para o sucesso na carreira de um desenvolvedor.</p>
